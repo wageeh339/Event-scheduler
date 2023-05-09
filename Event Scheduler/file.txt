@@ -1,0 +1,4 @@
+study 1 opo 9 8 10 
+eat 2 hend 9 8 6 
+play 3 playing 9 11 6 
+
